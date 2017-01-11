@@ -1,0 +1,24 @@
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.pdb
+D:\Документы\Учеба\Работы\WinForms\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe.config
+D:\Документы\Учеба\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.exe
+D:\Документы\Учеба\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.pdb
+D:\Документы\Учеба\Работы\WinForms\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe
+D:\Документы\Учеба\Работы\WinForms\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.pdb
+D:\Документы\Учеба\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Form1.resources
+D:\Документы\Учеба\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Properties.Resources.resources
+D:\Документы\Учеба\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csproj.GenerateResource.Cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe.config
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Form1.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Properties.Resources.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csproj.GenerateResource.Cache
